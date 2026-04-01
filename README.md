@@ -1,79 +1,74 @@
-# Abraham Cabrera
+# Hi there, I'm Abraham Cabrera 👋 
 
-**`Fullstack Developer | SaaS Builder`**
+### Data Engineer | Analytics Engineer | Fullstack Developer
 
-Desarrollador Fullstack especializado en React y Node.js, enfocado en construir aplicaciones web escalables, APIs robustas y soluciones SaaS multi-tenant.
-
-🧠 Especializado en:
-
-- Arquitectura limpia (Clean Architecture / Hexagonal)
-- Optimización de rendimiento
-- Diseño de APIs escalables
-- Sistemas multi-tenant listos para producción
-- Automatización de despliegues en entornos cloud
-
-
-## 🚀 Stack Principal
-
-**🎨 Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**⚙️ Backend**
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![JWT](https://img.shields.io/badge/jwt-black.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Architecture](https://img.shields.io/badge/MVC%20%7C%20Hexagonal-Architecture-informational?style=for-the-badge)
-
-**🗄️ Databases**
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-**🧪 Testing**
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/testing_library-%23E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-**☁️ DevOps**
-![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-Server-blueviolet?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</p>
 
 ---
 
-# 💼 Experiencia Destacada
+### 🚀 About Me
+I am a **Data Engineer** with a strong background in **Software Architecture** and **Backend Development**. My focus is on building scalable ETL/ELT pipelines and modern data ecosystems using **GCP and Databricks**. I am passionate about **Data Quality**, observability, and applying **Clean Code & SOLID** principles to data engineering.
 
-## 🧾 SaaS de Facturación Electrónica (SERP)
-
-- Arquitectura **Fullstack Multi-Tenant** (React + Node.js)
-- PostgreSQL + Supabase
-- Autenticación segura con JWT
-- Cumplimiento normativo de facturación electrónica (República Dominicana)
-- Automatización de despliegues CI/CD
+- 🌍 Based in **Alicante, Spain**
+- 💻 Portfolio: [cabreradfall.dev](https://cabreradfall.dev)
+- ✉️ Reach me at: [a.jcabrera@hotmail.com](mailto:a.jcabrera@hotmail.com)
 
 ---
 
-## 📦 Sistema WMS – Warehouse Entry & Labeling
+### 🛠️ Tech Stack
 
-- Control de inventario en tiempo real  
-- Integración con hardware (impresoras térmicas)  
-- Trazabilidad de productos  
-- Optimización de flujos logísticos  
+#### **Data Engineering**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+#### **Cloud & DevOps**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+#### **Backend & Systems**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-## 🛒 E-commerce por Suscripción
+### 📊 Featured Projects
 
-- WordPress + WooCommerce  
-- Integración con Stripe (pagos recurrentes)  
-- Diseño UI personalizado  
-- Gestión de usuarios y suscripciones  
+- 📁 **Nike Data Platform**: Global price monitoring system built on GCP, Airflow, and dbt.
+- 💨 **US Emissions Analytics**: Medallion architecture implementation using Databricks and PySpark.
+- 🔄 **Churn Prediction Pipeline**: End-to-end data pipeline for customer behavior analysis.
 
 ---
 
-# 🎓 Educación
+### 📈 GitHub Stats
 
-- 🎓 **MBA – Master of Business Administration**  
-- 🎓 **Ingeniería Industrial**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CabreraDfall&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabreraDfall&layout=compact&theme=vue-dark" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cabreradfall.dev">
+    <img src="https://img.shields.io/badge/Portfolio-1B5E20?style=for-the-badge&logo=buffer&logoColor=white" />
+  </a>
+</p>
