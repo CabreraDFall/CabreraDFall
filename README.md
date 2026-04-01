@@ -55,14 +55,6 @@ I am a **Data Engineer** with a strong background in **Software Architecture** a
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CabreraDfall&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabreraDfall&layout=compact&theme=vue-dark" />
-</p>
-
----
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-usuario-linkedin">
