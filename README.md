@@ -18,7 +18,6 @@ I am a **Data Engineer** with a strong background in **Software Architecture** a
 
 - 🌍 Based in **Alicante, Spain**
 - 💻 Portfolio: [cabreradfall.dev](https://cabreradfall.dev)
-- ✉️ Reach me at: [a.jcabrera@hotmail.com](mailto:a.jcabrera@hotmail.com)
 
 ---
 
